@@ -1,15 +1,15 @@
 # Tarea-3
 
-Datos (Descargar title.principals.tsv.gz y name.basics.tsv.gz)
+· Datos (Descargar title.principals.tsv.gz y name.basics.tsv.gz)
 
-```
+
 https://datasets.imdbws.com/
-```
 
-Documentación
-```
+
+· Documentación
+
 https://developer.imdb.com/non-commercial-datasets/
-```
+
 
 Primero se corre por terminal el codigo datos.py
 
