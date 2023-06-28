@@ -32,7 +32,10 @@ Add file Node
 ```
 docker cp <file_name> namenode:/<path>
 ```
-
+Docker exec
+```
+docker exec -it namenode /bin/bash
+```
 Run `docker network inspect` on the network (e.g. `dockerhadoop_default`) to find the IP the hadoop interfaces are published on. Access these interfaces with the following URLs:
 
 * Namenode: http://<dockerhadoop_IP_address>:9870/dfshealth.html#tab-overview
