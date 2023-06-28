@@ -28,6 +28,11 @@ docker stack deploy -c docker-compose-v3.yml hadoop
 
 `docker-compose` creates a docker network that can be found by running `docker network list`, e.g. `dockerhadoop_default`.
 
+Add file Node
+```
+docker cp <file_name> namenode:/<path>
+```
+
 Run `docker network inspect` on the network (e.g. `dockerhadoop_default`) to find the IP the hadoop interfaces are published on. Access these interfaces with the following URLs:
 
 * Namenode: http://<dockerhadoop_IP_address>:9870/dfshealth.html#tab-overview
