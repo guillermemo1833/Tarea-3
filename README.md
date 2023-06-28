@@ -38,7 +38,4 @@ https://towardsdatascience.com/hdfs-simple-docker-installation-guide-for-data-sc
 
 Link del video
 
-
-```
-
-```
+https://youtu.be/icTB3YjFqcY
