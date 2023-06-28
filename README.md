@@ -32,6 +32,10 @@ Y para el buscador se utiliza este comando
 ```
 python3 buscador.py
 ```
+· Docker-hadoop 
+
+https://towardsdatascience.com/hdfs-simple-docker-installation-guide-for-data-science-workflow-b3ca764fc94b
+
 Link del video
 
 
