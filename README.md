@@ -1,9 +1,9 @@
 # Tarea-3
 
-Datos
+Datos (Descargar title.principals.tsv.gz y name.basics.tsv.gz)
 https://datasets.imdbws.com/
 
-Documentacion
+Documentación
 https://developer.imdb.com/non-commercial-datasets/
 
 Link del video
