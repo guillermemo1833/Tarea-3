@@ -4,7 +4,6 @@ Clonar el repositorio
 
 ```
 git clone https://github.com/guillermemo1833/Tarea-3.git
-
 ```
 
 · Datos (Descargar title.principals.tsv.gz y name.basics.tsv.gz)
